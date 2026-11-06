@@ -24,5 +24,5 @@ def apply(out,brand,base='',exclude=()):
   text=re.sub(r'(<body\b[^>]*>)',lambda m:m[1]+bar,text,count=1,flags=re.I)
   text=text.replace('</body>',footer+'</body>',1);f.write_text(text);changed.append(rel)
  manifest={p.name:hashlib.sha256(p.read_bytes()).hexdigest() for p in HERE.iterdir() if p.is_file() and p.suffix in ['.py','.json','.css'] and p.name!='source-version.json'}
- (assets/'source-version.json').write_text(json.dumps(dict(version=1,brand=brand,source=manifest,pages=changed),indent=2)+'\n')
+ (assets/'source-version.json').write_text(json.dumps(dict(version=1,brand=brand,source=manifest,pages=sorted(changed)),indent=2)+'\n')
  return changed
