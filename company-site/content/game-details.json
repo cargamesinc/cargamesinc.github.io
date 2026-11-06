@@ -1,0 +1,718 @@
+{
+  "1478453789": {
+    "slug": "car-games",
+    "category": "Open-world driving",
+    "headline": "Choose a vehicle. Find your own route.",
+    "summary": "Explore an open driving world, take on missions and grow your vehicle collection.",
+    "paragraphs": [
+      "Find a new route through the city, discover shortcuts or head straight for your next mission. Car Games gives you the freedom to explore a driving world and put a growing collection of vehicles on the road.",
+      "On iPhone and iPad, drive online with other players and choose from more than 50 trucks, pickups, buses and classic cars. Complete missions for rewards, buy and upgrade vehicles, or challenge a city boss to a race. PlayStation and Xbox controller support gives you another way to take the wheel.",
+      "On Android, explore with cars, buses and trucks, take on driving and racing missions, and buy and upgrade your vehicles. The Android edition includes an offline mode for driving without an internet connection."
+    ],
+    "features": [
+      "iOS: online open-world driving and missions.",
+      "iOS: vehicle collection, upgrades and city-boss races.",
+      "iOS: PlayStation and Xbox controller support advertised.",
+      "Android: open-world driving, vehicle upgrades and offline mode advertised."
+    ],
+    "steps": [
+      "Choose your platform and check its current features.",
+      "Explore the driving world and take on missions.",
+      "Use rewards to develop your vehicle collection."
+    ],
+    "faqs": [
+      {
+        "question": "Can I use a controller?",
+        "answer": "The iPhone and iPad edition supports PlayStation and Xbox controllers."
+      },
+      {
+        "question": "Can I drive offline?",
+        "answer": "Choose the Android edition for offline driving. The iPhone and iPad edition features online open-world multiplayer driving."
+      },
+      {
+        "question": "Is Car Games free to download?",
+        "answer": "The iPhone and iPad app is free to download and offers optional auto-renewing VIP subscriptions. The Android app includes ads and in-app purchases. See your store for current prices and subscription terms."
+      }
+    ],
+    "uncertainties": [
+      "Do not apply iOS online/controller features automatically to Android.",
+      "Do not promise subscription benefits beyond the current store offer.",
+      "No real-world driving qualification or road-safety training claim."
+    ],
+    "guideSuggestions": [
+      {
+        "candidateSlug": "choosing-a-driving-game",
+        "anchor": "Open-world driving, PvP racing or parking puzzles?",
+        "reason": "Compare all four catalogue apps by core loop and verified platform features, with a store CTA on each linked game page."
+      }
+    ],
+    "appId": "1478453789",
+    "ios": {
+      "available": true,
+      "country": "US",
+      "storeUrl": "https://apps.apple.com/us/app/car-games/id1478453789?uo=4",
+      "lookupUrl": "https://itunes.apple.com/lookup?id=1478453789&country=us",
+      "name": "Car Games ·",
+      "seller": "C.A.R. GAMES INC.",
+      "artistId": 1478453788,
+      "developerUrl": "https://apps.apple.com/us/developer/car-games/id1478453788?uo=4",
+      "bundleId": "car.games.driving.simulator",
+      "version": "9.4",
+      "currentVersionReleaseDate": "2026-05-05T18:09:56Z",
+      "originalReleaseDate": "2019-11-05T08:00:00Z",
+      "minimumOsVersion": "15.0",
+      "price": 0.0,
+      "currency": "USD",
+      "formattedPrice": "Free",
+      "contentAdvisoryRating": "4+",
+      "deviceFamilies": [
+        "iPhone",
+        "iPad"
+      ],
+      "supportedDeviceCount": 130,
+      "compatibilityCaveat": "Declared listing compatibility only; not a device-install test.",
+      "releaseNotes": "Thank You Car Games players,\nThis update includes bug fixes and Performance Improvements.\nShare the game with your friends, thank you for choosing Car Games!",
+      "rawAssets": {
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/49/fe/c149fe7a-6e82-e6c0-dd34-a83e7be1ce33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/49/fe/c149fe7a-6e82-e6c0-dd34-a83e7be1ce33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+        "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/49/fe/c149fe7a-6e82-e6c0-dd34-a83e7be1ce33/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "screenshotUrls": [
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/44/b0/44/44b04465-227f-1b0b-74cc-52b0a59a0cb7/62b8acfe-9136-4138-b4c3-05b6a1cf6c4a_Distance_Lambo_Iphone_A.png/406x228bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/5d/dc/41/5ddc4129-a61d-3368-7289-905b043f5128/adbcdb6e-6c7b-45e4-8aa3-f8939ed00c1e_iphone_678.png/406x228bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/67/24/d6/6724d6cc-ae2c-6555-b871-4f4859184a69/2f764bd1-f701-4886-9fa1-9fae0842644a_Iphone.png/406x228bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0c/f0/c6/0cf0c69c-8cd9-99ff-931b-9755546c86ed/pr_source.png/406x228bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/70/74/8a/70748a74-587a-8548-3d43-141732fc6926/pr_source.png/406x228bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/13/2d/92/132d92b2-7484-ae8f-922e-23db7b5f7a41/pr_source.png/406x228bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ef/8c/0c/ef8c0c63-c84b-0ac0-1d1c-85aa03278a06/pr_source.png/406x228bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fd/ad/88/fdad884c-3fff-c8e2-3b2c-7d54a22f6b5c/pr_source.png/406x228bb.png"
+        ],
+        "ipadScreenshotUrls": [
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3f/21/5d/3f215dd3-166f-95c6-f0d9-9731a8e5fe8e/pr_source.png/552x414bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ad/1a/c4/ad1ac449-3ec3-d89d-4cac-9a018e65ca71/pr_source.png/552x414bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/50/f1/d7/50f1d754-7b30-f65f-84f2-4eaf8f5ffc23/pr_source.png/552x414bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4b/94/a6/4b94a6f7-335c-fab1-c8f1-f43ed42030f5/pr_source.png/552x414bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/46/f1/ec/46f1ece0-d4c7-eec7-ebfc-8367b5af982d/pr_source.png/552x414bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0f/d6/11/0fd6117e-7505-d90e-51fc-dbc24205f07b/pr_source.png/552x414bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d3/44/0f/d3440f3a-f77c-6d4b-4ea2-b007e744dc70/pr_source.png/552x414bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/cb/10/b1/cb10b148-74c3-43da-256b-f66d0aab357d/pr_source.png/552x414bb.png"
+        ],
+        "appletvScreenshotUrls": []
+      }
+    },
+    "android": {
+      "package": "car.games.driving.simulator",
+      "name": "Car Games - Driving Simulator",
+      "features": [
+        "Open-world driving with cars, buses and trucks.",
+        "Driving and racing missions, vehicle purchases and upgrades.",
+        "Offline mode advertised."
+      ],
+      "ads": true,
+      "inAppPurchases": true,
+      "caveats": [
+        "Android description does not establish the iOS multiplayer or PlayStation/Xbox controller features."
+      ],
+      "url": "https://play.google.com/store/apps/details?id=car.games.driving.simulator",
+      "verified": true,
+      "httpStatus": 200,
+      "checkedAt": "2026-11-03T14:59:22.249760+00:00",
+      "officialDeveloperDirectory": "https://play.google.com/store/apps/developer?id=Car+Games+Inc",
+      "officialDeveloperName": "Car Games Inc",
+      "rawAssets": {
+        "icon": "https://play-lh.googleusercontent.com/bcWObzj-trIIb3_vRs63RvrcE37rjvNLBYr1o5wPqfHq3mTr3pBIPkbA8wSOxvppQoLs-L0WGOGXA3Zmerlztw=s0-br30"
+      },
+      "verification": {
+        "method": "Direct official store HTTP plus official developer-directory cross-check",
+        "descriptionExtracted": true,
+        "finalUrl": "https://play.google.com/store/apps/details?id=car.games.driving.simulator"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=car.games.driving.simulator"
+    },
+    "verifiedCurrentPlatformFeatures": [
+      {
+        "platform": "iOS",
+        "facts": [
+          "Online open-world driving with other players and missions.",
+          "More than 50 vehicles, with purchases, upgrades and city-boss races.",
+          "PlayStation and Xbox controller support."
+        ],
+        "source": "https://apps.apple.com/us/app/car-games/id1478453789?uo=4"
+      },
+      {
+        "platform": "Android",
+        "facts": [
+          "Open-world driving with cars, buses and trucks.",
+          "Driving and racing missions, vehicle purchases and upgrades.",
+          "Offline driving mode."
+        ],
+        "source": "https://play.google.com/store/apps/details?id=car.games.driving.simulator"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Car Games · — official App Store listing",
+        "url": "https://apps.apple.com/us/app/car-games/id1478453789?uo=4"
+      },
+      {
+        "title": "Official Apple US lookup metadata",
+        "url": "https://itunes.apple.com/lookup?id=1478453789&country=us"
+      },
+      {
+        "title": "Car Games - Driving Simulator — official Google Play listing",
+        "url": "https://play.google.com/store/apps/details?id=car.games.driving.simulator"
+      },
+      {
+        "title": "Official Car Games Inc Android developer directory",
+        "url": "https://play.google.com/store/apps/developer?id=Car+Games+Inc"
+      }
+    ],
+    "changesSinceSuppliedInventory": {},
+    "title": "Car Games: Open-World Driving for iPhone & Android",
+    "metaDescription": "Explore an open driving world with missions and vehicle upgrades. Choose online driving and 50+ vehicles on iPhone and iPad, or offline driving on Android.",
+    "downloadNote": "Free to download on the US App Store. Optional auto-renewing VIP subscriptions on iOS; ads and in-app purchases on Android. See your store for current prices and terms.",
+    "closingHeading": "Your next route starts here.",
+    "closingCopy": "Choose Car Games for an open world, driving missions and a vehicle collection to make your own.",
+    "guideParagraphs": [
+      "Choose Car Games when you want to find your own route through a driving world, complete missions and build a vehicle collection.",
+      "On iPhone and iPad, drive online with other players, collect more than 50 vehicles and use a PlayStation or Xbox controller. Choose Android for offline driving with cars, buses and trucks."
+    ],
+    "screenshotAlts": [
+      "An orange sports car on a city road, with steering controls and a mini-map.",
+      "A red sports car turning through downtown traffic.",
+      "A car stopped at a city crossing during a passenger pickup mission."
+    ]
+  },
+  "1503618403": {
+    "slug": "racing-clash",
+    "category": "Online car racing",
+    "headline": "Build your car. Line up for the next race.",
+    "summary": "Collect, upgrade and customize your cars for head-to-head online races.",
+    "paragraphs": [
+      "Take your car to the starting line and race other players in online multiplayer battles. Racing Clash is built around head-to-head competition: choose your ride, enter a race and chase the next finish.",
+      "Build your collection with new cars, upgrade the vehicles you enjoy driving and customize their look. Daily rewards give you another reason to return and prepare for your next race. Play on iPhone, iPad or Android.",
+      "Choose Racing Clash when you want a race against another driver. For open-world exploration and driving missions, try Car Games."
+    ],
+    "features": [
+      "iOS and Android: head-to-head online PvP races.",
+      "iOS and Android: collect and upgrade cars.",
+      "iOS and Android: car customization and daily rewards advertised."
+    ],
+    "steps": [
+      "Build and customize your car collection.",
+      "Enter an online head-to-head race.",
+      "Use available rewards and upgrades to prepare for the next race."
+    ],
+    "faqs": [
+      {
+        "question": "Is Racing Clash different from Car Games?",
+        "answer": "Yes. Racing Clash focuses on head-to-head online racing. Car Games is our open-world driving app with exploration and missions."
+      },
+      {
+        "question": "Do multiplayer races need an internet connection?",
+        "answer": "Head-to-head multiplayer races are online. Connect to the internet to race other players."
+      },
+      {
+        "question": "What can I do with my car collection?",
+        "answer": "Collect new cars, upgrade your vehicles and customize their look. You can also earn daily rewards as you return to play."
+      }
+    ],
+    "uncertainties": [
+      "No independent device or live-match service test performed.",
+      "Controller support, offline modes and cross-platform matchmaking not verified.",
+      "Avoid millions-of-options counts, best-racer claims or pay-to-win/no-pay-to-win conclusions."
+    ],
+    "guideSuggestions": [
+      {
+        "candidateSlug": "choosing-a-driving-game",
+        "anchor": "Compare online racing with exploration and parking puzzles",
+        "reason": "A direct product comparison helps people choose the appropriate download without inventing a universal ranking."
+      }
+    ],
+    "appId": "1503618403",
+    "ios": {
+      "available": true,
+      "country": "US",
+      "storeUrl": "https://apps.apple.com/us/app/racing-clash-car-racing/id1503618403?uo=4",
+      "lookupUrl": "https://itunes.apple.com/lookup?id=1503618403&country=us",
+      "name": "Racing Clash: Car Racing",
+      "seller": "C.A.R. GAMES INC.",
+      "artistId": 1478453788,
+      "developerUrl": "https://apps.apple.com/us/developer/car-games/id1478453788?uo=4",
+      "bundleId": "racing.clash",
+      "version": "3.9",
+      "currentVersionReleaseDate": "2026-07-09T15:43:47Z",
+      "originalReleaseDate": "2020-03-21T07:00:00Z",
+      "minimumOsVersion": "13.0",
+      "price": 0.0,
+      "currency": "USD",
+      "formattedPrice": "Free",
+      "contentAdvisoryRating": "4+",
+      "deviceFamilies": [
+        "iPhone",
+        "iPad"
+      ],
+      "supportedDeviceCount": 130,
+      "compatibilityCaveat": "Declared listing compatibility only; not a device-install test.",
+      "releaseNotes": "Thank You Racing Clash players,\nThis update includes bug fixes ad UI optimization.\nShare the game with your friends, thank you for choosing to play the best Car Racing Games!",
+      "rawAssets": {
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/cb/fb/1dcbfb0e-5534-dddc-2def-53327a749a2a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/cb/fb/1dcbfb0e-5534-dddc-2def-53327a749a2a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+        "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/cb/fb/1dcbfb0e-5534-dddc-2def-53327a749a2a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "screenshotUrls": [
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d7/79/99/d779990b-2b45-a667-1250-cd64051ab27a/2836c909-6c76-48c6-976e-07b242c800fb_iphone.png/406x228bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/38/cf/f7/38cff7d3-c766-0910-a128-1e7d5a813bc7/pr_source.png/392x696bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/20/ba/60/20ba6061-93d4-225c-64e8-383fb6e7b739/pr_source.png/392x696bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/11/ec/2d/11ec2d44-2436-cd34-1930-d1757d96546e/pr_source.png/392x696bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2a/af/fd/2aaffd09-f10b-4f20-fc70-2ec252ccc897/7036b7b6-aebe-46fd-bc63-bacdba8b8675_Screenshot1_Iphone_V2.png/392x696bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/61/6f/fa/616ffa4e-8997-cc36-5b54-1332bd85baa9/9d9aaba0-b54f-4f06-8e13-18298658a1f8_Screenshot2_Iphone.png/392x696bb.png"
+        ],
+        "ipadScreenshotUrls": [
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/95/56/ba/9556ba96-e3bb-7298-ce2c-65f0bd55d811/60f7c134-19f7-42af-b07c-9dde272ff351_ipad.png/552x414bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/0a/10/67/0a106771-d70b-30e2-cfcb-2dc05df31824/pr_source.png/576x768bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9d/1e/a4/9d1ea49e-d18c-c2a3-867f-f1c66262fef3/pr_source.png/576x768bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9e/4a/96/9e4a96c7-3cff-c9e6-3599-14595d788870/pr_source.png/576x768bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/07/2d/33/072d3388-f3de-8292-687e-e933417ecc85/85d34f9c-a29b-4a78-b77c-428af33b4b99_Screenshot1_Ipad_V2.png/576x768bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/db/7d/b0/db7db0ce-7093-ae18-9566-8401f9fee3e0/f8afb5db-6995-416e-9289-93b4c412da6c_Screenshot2_Ipad.png/576x768bb.png"
+        ],
+        "appletvScreenshotUrls": []
+      }
+    },
+    "android": {
+      "package": "racing.clash",
+      "name": "Racing Clash",
+      "features": [
+        "Head-to-head online PvP races.",
+        "Car customization, daily rewards and vehicle collection/upgrades."
+      ],
+      "ads": true,
+      "inAppPurchases": true,
+      "caveats": [
+        "The page has an Offline category tag, but its actual description emphasizes online multiplayer; do not promise offline multiplayer.",
+        "The Android listing does not expose a current version or minimum Android version in the verified public text."
+      ],
+      "url": "https://play.google.com/store/apps/details?id=racing.clash",
+      "verified": true,
+      "httpStatus": 200,
+      "checkedAt": "2026-11-03T14:59:22.249760+00:00",
+      "officialDeveloperDirectory": "https://play.google.com/store/apps/developer?id=Car+Games+Inc",
+      "officialDeveloperName": "Car Games Inc",
+      "rawAssets": {
+        "icon": "https://play-lh.googleusercontent.com/5MhOlDIvnGzJg1hjyqiEFzTS7K-LfL2BtvCSKAeN9_VNK_AeHljktjF9k-W9eXz2fL32cvoXlT-G2mWfl4MftA=s0-br30"
+      },
+      "verification": {
+        "method": "Direct official store HTTP plus official developer-directory cross-check",
+        "descriptionExtracted": true,
+        "finalUrl": "https://play.google.com/store/apps/details?id=racing.clash"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=racing.clash"
+    },
+    "verifiedCurrentPlatformFeatures": [
+      {
+        "platform": "iOS",
+        "facts": [
+          "Head-to-head online PvP racing.",
+          "Car collection, vehicle upgrades and customization.",
+          "Daily rewards."
+        ],
+        "source": "https://apps.apple.com/us/app/racing-clash-car-racing/id1503618403?uo=4"
+      },
+      {
+        "platform": "Android",
+        "facts": [
+          "Head-to-head online PvP racing.",
+          "Car collection, vehicle upgrades and customization.",
+          "Daily rewards."
+        ],
+        "source": "https://play.google.com/store/apps/details?id=racing.clash"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Racing Clash: Car Racing — official App Store listing",
+        "url": "https://apps.apple.com/us/app/racing-clash-car-racing/id1503618403?uo=4"
+      },
+      {
+        "title": "Official Apple US lookup metadata",
+        "url": "https://itunes.apple.com/lookup?id=1503618403&country=us"
+      },
+      {
+        "title": "Racing Clash — official Google Play listing",
+        "url": "https://play.google.com/store/apps/details?id=racing.clash"
+      },
+      {
+        "title": "Official Car Games Inc Android developer directory",
+        "url": "https://play.google.com/store/apps/developer?id=Car+Games+Inc"
+      }
+    ],
+    "changesSinceSuppliedInventory": {},
+    "title": "Racing Clash: Online Car Racing for iPhone & Android",
+    "metaDescription": "Race other players head to head in Racing Clash. Collect and upgrade cars, customize your ride and earn daily rewards on iPhone, iPad and Android.",
+    "downloadNote": "Free to download on the US App Store. The Android app includes ads and in-app purchases. See your store for current offers and terms.",
+    "closingHeading": "Line up for your next race.",
+    "closingCopy": "Build your collection, customize your ride and take on another driver in Racing Clash.",
+    "guideParagraphs": [
+      "Choose Racing Clash for a head-to-head contest. Race other players online, collect new cars, upgrade your favorites and customize their look.",
+      "Daily rewards help you prepare for another session. Available on iPhone, iPad and Android, with an internet connection for multiplayer races."
+    ],
+    "screenshotAlts": [
+      "An orange sports car racing a red rival on a tree-lined road.",
+      "Two cars racing side by side with a second-place indicator and steering controls.",
+      "A gray car racing an orange pickup toward the finish."
+    ]
+  },
+  "6670452785": {
+    "slug": "motorcycle-games",
+    "category": "Motorcycle stunt racing",
+    "headline": "Time the jump. Stick the landing.",
+    "summary": "Ride ramps and obstacle tracks, balancing speed and control through each bike challenge.",
+    "paragraphs": [
+      "Hit the ramp, balance your bike in the air and aim for a clean landing. Motorcycle Games: Bike Race brings jumps, obstacles and arcade riding into a session built around timing and control.",
+      "On iPhone and iPad, ride desert tracks with ramps, bridges and hazards, then return to timed levels to chase a faster finish. Simple controls make it easy to start, while tricky landings give you something to work on.",
+      "On Android, find the game as Motorcycle Race: Bike Game. Ride motorcycle levels with ramps, jumps and obstacles, using simple controls to manage your timing, balance and landings."
+    ],
+    "features": [
+      "iOS: motorcycle tracks with ramps, bridges and hazards.",
+      "iOS: timed levels and stunt-style jumps.",
+      "Android: motorcycle levels emphasizing jumps, timing and balance.",
+      "Both descriptions: simple controls for arcade-style riding."
+    ],
+    "steps": [
+      "Read the upcoming ramp and obstacles.",
+      "Balance your approach speed with the landing you need.",
+      "Complete a track, then revisit a difficult jump to improve your timing."
+    ],
+    "faqs": [
+      {
+        "question": "What is the game called on Android?",
+        "answer": "Our Android game is Motorcycle Race: Bike Game from Car Games Inc. The Google Play button on this page takes you straight to it."
+      },
+      {
+        "question": "What kinds of bike challenges can I play?",
+        "answer": "Take on ramps, jumps and obstacles with simple controls. The iPhone and iPad edition also includes desert tracks, bridges and timed levels for chasing a faster finish."
+      },
+      {
+        "question": "What are the age ratings?",
+        "answer": "The US App Store rating is 9+. Google Play rates the Android game Teen for Violence and Blood. Check the current age rating in your region when choosing a game for a child."
+      }
+    ],
+    "uncertainties": [
+      "Offline play, external controllers, online races and cross-platform feature parity unverified.",
+      "Android listing displays ads; absence of an IAP label in inspected text is not an enduring no-purchases promise.",
+      "Do not describe its stunts as safe real-world riding instruction."
+    ],
+    "guideSuggestions": [
+      {
+        "candidateSlug": "choosing-a-driving-game",
+        "anchor": "Choose motorcycle stunt tracks or car-based play",
+        "reason": "Compare moment-to-moment controls, vehicle type and session goals, then direct the player to the matching store."
+      }
+    ],
+    "appId": "6670452785",
+    "ios": {
+      "available": true,
+      "country": "US",
+      "storeUrl": "https://apps.apple.com/us/app/motorcycle-games-bike-race/id6670452785?uo=4",
+      "lookupUrl": "https://itunes.apple.com/lookup?id=6670452785&country=us",
+      "name": "Motorcycle Games: Bike Race",
+      "seller": "C.A.R. GAMES INC.",
+      "artistId": 1478453788,
+      "developerUrl": "https://apps.apple.com/us/developer/car-games/id1478453788?uo=4",
+      "bundleId": "com.motorcycle.games.free.style.bike.race",
+      "version": "1.1",
+      "currentVersionReleaseDate": "2026-09-02T14:02:25Z",
+      "originalReleaseDate": "2026-06-30T07:00:00Z",
+      "minimumOsVersion": "13.0",
+      "price": 0.0,
+      "currency": "USD",
+      "formattedPrice": "Free",
+      "contentAdvisoryRating": "9+",
+      "deviceFamilies": [
+        "iPhone",
+        "iPad"
+      ],
+      "supportedDeviceCount": 130,
+      "compatibilityCaveat": "Declared listing compatibility only; not a device-install test.",
+      "releaseNotes": "Bug fixes and improvements to the player experience. \nThank you for playing Motorcycle Games: Bike Race!",
+      "rawAssets": {
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/a8/78/19a878fd-c9ca-3d3b-4ee4-94c964e5a116/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/a8/78/19a878fd-c9ca-3d3b-4ee4-94c964e5a116/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+        "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/a8/78/19a878fd-c9ca-3d3b-4ee4-94c964e5a116/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "screenshotUrls": [
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/bc/f6/4dbcf646-871a-7361-492c-e0c18de00bf8/iphone01.jpg/320x480bb.jpg",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/51/36/2d5136ef-8272-ae01-9152-455431163ead/iphone02.jpg/320x480bb.jpg",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/fa/b4/c5fab43b-29ab-d9d5-5731-a0bd6a5d8749/iphone03.jpg/320x480bb.jpg",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/23/d5/6323d55a-c7cb-7686-1a4a-d35e8533359e/iphone05.jpg/320x480bb.jpg",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/a9/57/12a957d8-b8dc-5d67-c8c1-cdd4a96d94fc/iphone04.jpg/320x480bb.jpg"
+        ],
+        "ipadScreenshotUrls": [
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/73/8c/14738cd9-5d84-d4e8-00f4-cf6599d8a485/ipad_1.jpg/360x480bb.jpg",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/e1/25/35e125b2-0580-8555-c17f-7137852e9ce9/ipad_2.jpg/360x480bb.jpg",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/b2/cd/bfb2cd02-f58e-4dfb-4a8e-9557e179999e/ipad_3.jpg/360x480bb.jpg",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/f1/8c/69f18cf2-cd9c-16b2-223b-a1d661185c67/ipad_5.jpg/360x480bb.jpg",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/11/1c/5f/111c5f1e-6c6a-a3ae-77a1-df6ad75942f1/ipad_4.jpg/360x480bb.jpg"
+        ],
+        "appletvScreenshotUrls": []
+      }
+    },
+    "android": {
+      "package": "com.motorcycle.games.free.style.bike.race",
+      "name": "Motorcycle Race: Bike Game",
+      "features": [
+        "Motorcycle levels with ramps, jumps and obstacles.",
+        "Simple controls with timing, balance and landing challenges."
+      ],
+      "ads": true,
+      "inAppPurchases": null,
+      "caveats": [
+        "Android title differs from iOS.",
+        "Google Play shows Teen / Violence, Blood; do not market this as universally suitable for young children.",
+        "Offline availability and controller support are not established."
+      ],
+      "url": "https://play.google.com/store/apps/details?id=com.motorcycle.games.free.style.bike.race",
+      "verified": true,
+      "httpStatus": 200,
+      "checkedAt": "2026-11-03T14:59:22.249760+00:00",
+      "officialDeveloperDirectory": "https://play.google.com/store/apps/developer?id=Car+Games+Inc",
+      "officialDeveloperName": "Car Games Inc",
+      "rawAssets": {
+        "icon": "https://play-lh.googleusercontent.com/QmF86ke28xh_RpJdIw9fzpy1Col6XZCAn6ronZqoNDYVBQ6R6A_EP3pJlgAZdBnXqaJJfjtTY6QqbaCd5qZzAQo=s0-br30"
+      },
+      "verification": {
+        "method": "Direct official store HTTP plus official developer-directory cross-check",
+        "descriptionExtracted": true,
+        "finalUrl": "https://play.google.com/store/apps/details?id=com.motorcycle.games.free.style.bike.race"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.motorcycle.games.free.style.bike.race"
+    },
+    "verifiedCurrentPlatformFeatures": [
+      {
+        "platform": "iOS",
+        "facts": [
+          "Desert motorcycle tracks with ramps, bridges and hazards.",
+          "Timed levels, stunt jumps and tricky landings.",
+          "Simple controls for arcade-style riding."
+        ],
+        "source": "https://apps.apple.com/us/app/motorcycle-games-bike-race/id6670452785?uo=4"
+      },
+      {
+        "platform": "Android",
+        "facts": [
+          "Motorcycle Race: Bike Game on Google Play.",
+          "Motorcycle levels with ramps, jumps and obstacles.",
+          "Simple controls with timing, balance and landing challenges.",
+          "Teen rating for Violence and Blood on Google Play."
+        ],
+        "source": "https://play.google.com/store/apps/details?id=com.motorcycle.games.free.style.bike.race"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Motorcycle Games: Bike Race — official App Store listing",
+        "url": "https://apps.apple.com/us/app/motorcycle-games-bike-race/id6670452785?uo=4"
+      },
+      {
+        "title": "Official Apple US lookup metadata",
+        "url": "https://itunes.apple.com/lookup?id=6670452785&country=us"
+      },
+      {
+        "title": "Motorcycle Race: Bike Game — official Google Play listing",
+        "url": "https://play.google.com/store/apps/details?id=com.motorcycle.games.free.style.bike.race"
+      },
+      {
+        "title": "Official Car Games Inc Android developer directory",
+        "url": "https://play.google.com/store/apps/developer?id=Car+Games+Inc"
+      }
+    ],
+    "changesSinceSuppliedInventory": {},
+    "title": "Motorcycle Games: Bike Jumps & Stunt Racing",
+    "metaDescription": "Launch off ramps, balance your bike and land cleanly in Motorcycle Games: Bike Race for iPhone and iPad. Also available as Motorcycle Race: Bike Game on Android.",
+    "downloadNote": "Free to download on the US App Store. The Android app includes ads. Check your store for current offers and age ratings.",
+    "closingHeading": "Make your next landing count.",
+    "closingCopy": "Take on ramps, jumps and obstacle tracks in our motorcycle game for your device.",
+    "guideParagraphs": [
+      "Choose motorcycle play when timing a jump and controlling a landing sounds like your kind of challenge. Simple controls let you focus on speed, balance and the next obstacle.",
+      "Motorcycle Games: Bike Race on iPhone and iPad includes desert tracks, bridges and timed levels. On Android, look for Motorcycle Race: Bike Game. The US App Store rating is 9+; Google Play rates the Android game Teen for Violence and Blood."
+    ],
+    "screenshotAlts": [
+      "A motorcyclist jumping over a saw-blade obstacle on a desert track.",
+      "A green motorcycle jumping toward a finish flag with a blue boost trail.",
+      "A red motorcycle riding up a ramp toward the finish flag."
+    ]
+  },
+  "1610019963": {
+    "slug": "parking-games",
+    "category": "Parking-jam puzzles",
+    "headline": "Clear the jam, one clever move at a time.",
+    "summary": "Clear crowded parking lots, open a path for each car and unlock new skins as you progress.",
+    "paragraphs": [
+      "Work out which cars can leave first and open a path through a crowded parking lot. Parking Games turns the parking jam into a colorful 3D puzzle, with increasingly challenging layouts and new skins to unlock as you progress.",
+      "Take on more than 10,000 parking puzzles on iPhone and iPad. Play offline on iPhone, iPad and Android, so you can work through your next jam without Wi-Fi.",
+      "The Android edition also includes hints and selectable difficulty. Choose Parking Games when you want to plan the order of your moves and enjoy the satisfaction of an empty lot."
+    ],
+    "features": [
+      "iOS and Android: three-dimensional parking-jam/unblock puzzles.",
+      "iOS and Android: offline gameplay advertised.",
+      "iOS and Android: unlockable skins described.",
+      "Android release notes: hints and difficulty selection advertised."
+    ],
+    "steps": [
+      "Inspect which vehicles have an open route.",
+      "Clear a path without blocking the next move.",
+      "Work through the layout and continue to another puzzle."
+    ],
+    "faqs": [
+      {
+        "question": "What kind of game is Parking Games?",
+        "answer": "It is a 3D parking-jam and unblock puzzle. Plan which cars can leave first, clear the lot and unlock skins as you progress."
+      },
+      {
+        "question": "Can I play without Wi-Fi?",
+        "answer": "Yes. Play the parking puzzles offline on iPhone, iPad and Android. An internet connection is needed for store purchases and other online services."
+      },
+      {
+        "question": "Are there hints and difficulty choices?",
+        "answer": "The Android edition includes hints and selectable difficulty."
+      }
+    ],
+    "uncertainties": [
+      "Exact level count not independently audited; optional to omit from public copy.",
+      "Do not claim cognitive-health improvement from planning tasks.",
+      "Google Play Games Windows availability is not a native Mac or independent Windows release."
+    ],
+    "guideSuggestions": [
+      {
+        "candidateSlug": "choosing-a-driving-game",
+        "anchor": "Choose a parking puzzle or a driving game",
+        "reason": "Make the steering-versus-move-order distinction clear and send interested puzzle players to the correct app download."
+      }
+    ],
+    "appId": "1610019963",
+    "ios": {
+      "available": true,
+      "country": "US",
+      "storeUrl": "https://apps.apple.com/us/app/parking-games-car-puzzle/id1610019963?uo=4",
+      "lookupUrl": "https://itunes.apple.com/lookup?id=1610019963&country=us",
+      "name": "Parking Games - Car Puzzle",
+      "seller": "C.A.R. GAMES INC.",
+      "artistId": 1478453788,
+      "developerUrl": "https://apps.apple.com/us/developer/car-games/id1478453788?uo=4",
+      "bundleId": "parking.games.car.puzzle",
+      "version": "2.4",
+      "currentVersionReleaseDate": "2026-07-02T13:38:13Z",
+      "originalReleaseDate": "2022-08-17T07:00:00Z",
+      "minimumOsVersion": "13.0",
+      "price": 0.0,
+      "currency": "USD",
+      "formattedPrice": "Free",
+      "contentAdvisoryRating": "4+",
+      "deviceFamilies": [
+        "iPhone",
+        "iPad"
+      ],
+      "supportedDeviceCount": 130,
+      "compatibilityCaveat": "Declared listing compatibility only; not a device-install test.",
+      "releaseNotes": "Thank You Parking Games players,\nThis update includes:\n- Improved gameplay\n- bug fixes and Performance Improvements for IOS16 and iPhone 14.\nShare the game with your friends, thank you for choosing Parking Games by Car Games!",
+      "rawAssets": {
+        "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/36/3b/29363b89-0c2c-870b-3298-c207abcebe40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/36/3b/29363b89-0c2c-870b-3298-c207abcebe40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+        "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/36/3b/29363b89-0c2c-870b-3298-c207abcebe40/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+        "screenshotUrls": [
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/23/6c/35/236c35a5-6959-8a3f-e675-1836b0cec114/13351718-694c-4362-a8ce-73eb7a9cada6_screenshot_3_iphone_HORI_v2.png/406x228bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b7/e1/e9/b7e1e925-58e7-b428-c9b4-b70f5401dea6/4b0e762f-a51d-4c2f-9fee-d86eb5e16bb7_screenshot_1_iphone_vert.png/392x696bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c4/51/dc/c451dc56-7a02-720c-09b6-145c533859f3/f71f5cb1-5884-41c7-997a-2febfea00ea3_screenshot_2_iphone.png/392x696bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/91/95/43/91954369-cf19-06bd-2769-ae7a816e5eb8/dc361173-3333-4be1-b81a-cf238d2ed5c0_screenshot_4_iphone.png/392x696bb.png"
+        ],
+        "ipadScreenshotUrls": [
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2b/85/70/2b857066-515c-167d-4b88-d728c62c5f73/2795a207-887b-4a71-a023-836a264d506a_screenshot_3_ipad_HORI_v2.png/552x414bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e1/98/88/e198888a-0314-2a49-710b-622c34961709/7228197f-c57f-4fcf-9194-9ab833652b10_screenshot_1_IPAD_vert.png/576x768bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7e/03/96/7e03962b-5e32-5e5f-8f13-cb379a06e865/f46863ad-6577-4719-8751-42749e5ec896_screenshot_2_IPAD.png/576x768bb.png",
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ef/4a/16/ef4a16d1-5cee-1d6f-d565-5e44d3449d71/c672e074-0ba8-4720-b5bb-ab0c5f4aef5c_screenshot_4_ipad.png/576x768bb.png"
+        ],
+        "appletvScreenshotUrls": []
+      }
+    },
+    "android": {
+      "package": "car.parking.games.master.jam.puzzle",
+      "name": "Parking Games: Car Parking Jam",
+      "features": [
+        "Three-dimensional parking-jam and unblock puzzles.",
+        "Offline play and unlockable skins are advertised.",
+        "Current Android release notes advertise difficulty selection and hints."
+      ],
+      "ads": true,
+      "inAppPurchases": true,
+      "caveats": [
+        "Do not assume Android hint or difficulty controls are identical on iOS.",
+        "The store advertises Windows through Google Play Games; a native Windows or Mac download is not established."
+      ],
+      "url": "https://play.google.com/store/apps/details?id=car.parking.games.master.jam.puzzle",
+      "verified": true,
+      "httpStatus": 200,
+      "checkedAt": "2026-11-03T14:59:22.249760+00:00",
+      "officialDeveloperDirectory": "https://play.google.com/store/apps/developer?id=Car+Games+Inc",
+      "officialDeveloperName": "Car Games Inc",
+      "rawAssets": {
+        "icon": "https://play-lh.googleusercontent.com/aomSMqBHaSp8EJaFiGAEsFwcpqkFiW3HSluErYGPLJaE_BfvnQROrulJNAS7Lyy3WdbZq6Bh2YqoAH5523M_eg=s0-br30"
+      },
+      "verification": {
+        "method": "Direct official store HTTP plus official developer-directory cross-check",
+        "descriptionExtracted": true,
+        "finalUrl": "https://play.google.com/store/apps/details?id=car.parking.games.master.jam.puzzle"
+      },
+      "storeUrl": "https://play.google.com/store/apps/details?id=car.parking.games.master.jam.puzzle"
+    },
+    "verifiedCurrentPlatformFeatures": [
+      {
+        "platform": "iOS",
+        "facts": [
+          "More than 10,000 3D parking-jam and unblock puzzles.",
+          "Offline play on iPhone and iPad.",
+          "Unlockable skins."
+        ],
+        "source": "https://apps.apple.com/us/app/parking-games-car-puzzle/id1610019963?uo=4"
+      },
+      {
+        "platform": "Android",
+        "facts": [
+          "3D parking-jam and unblock puzzles.",
+          "Offline play and unlockable skins.",
+          "Hints and selectable difficulty."
+        ],
+        "source": "https://play.google.com/store/apps/details?id=car.parking.games.master.jam.puzzle"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Parking Games - Car Puzzle — official App Store listing",
+        "url": "https://apps.apple.com/us/app/parking-games-car-puzzle/id1610019963?uo=4"
+      },
+      {
+        "title": "Official Apple US lookup metadata",
+        "url": "https://itunes.apple.com/lookup?id=1610019963&country=us"
+      },
+      {
+        "title": "Parking Games: Car Parking Jam — official Google Play listing",
+        "url": "https://play.google.com/store/apps/details?id=car.parking.games.master.jam.puzzle"
+      },
+      {
+        "title": "Official Car Games Inc Android developer directory",
+        "url": "https://play.google.com/store/apps/developer?id=Car+Games+Inc"
+      }
+    ],
+    "changesSinceSuppliedInventory": {},
+    "title": "Parking Games: 3D Car Puzzles for iPhone & Android",
+    "metaDescription": "Clear parking jams and unlock new skins in Parking Games. Play offline on iPhone, iPad and Android, with more than 10,000 parking puzzles on iPhone and iPad.",
+    "downloadNote": "Free to download on the US App Store. The Android app includes ads and in-app purchases. See your store for current offers and terms.",
+    "closingHeading": "Ready to clear the next jam?",
+    "closingCopy": "Open a path, unlock new skins and enjoy offline parking puzzles on your phone or tablet.",
+    "guideParagraphs": [
+      "Choose Parking Games when you would rather plan the next move than steer a car. Work out which cars can leave first, open a path through crowded lots and unlock new skins as you progress.",
+      "Take on more than 10,000 parking puzzles on iPhone and iPad. Play offline on iPhone, iPad and Android; the Android edition also includes hints and selectable difficulty."
+    ],
+    "screenshotAlts": [
+      "An overhead view of yellow cars crowded into a parking lot.",
+      "A red car blocked by blue cars and a bus in a parking puzzle.",
+      "A red car leaving a partly cleared parking lot."
+    ]
+  }
+}

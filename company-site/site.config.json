@@ -1,0 +1,68 @@
+{
+  "name": "Car Games",
+  "canonical": "https://www.cargamesinc.com",
+  "publicDirectories": [
+    "assets",
+    "games",
+    "guides",
+    "privacy-policy",
+    "privacy-policy-history",
+    "terms-of-use",
+    "contact",
+    "home",
+    "_functions"
+  ],
+  "canonicalRoutes": [
+    "/",
+    "/games/car-games/",
+    "/games/racing-clash/",
+    "/games/motorcycle-games/",
+    "/games/parking-games/",
+    "/privacy-policy/",
+    "/privacy-policy-history/",
+    "/terms-of-use/",
+    "/contact/",
+    "/guides/choose-a-driving-game/"
+  ],
+  "managedRoutes": [
+    "/",
+    "/games/car-games/",
+    "/games/racing-clash/",
+    "/games/motorcycle-games/",
+    "/games/parking-games/",
+    "/privacy-policy/",
+    "/privacy-policy-history/",
+    "/terms-of-use/",
+    "/contact/",
+    "/guides/choose-a-driving-game/"
+  ],
+  "noindexFiles": [
+    "404.html",
+    "home/index.html",
+    "_functions/Adstxt/index.html"
+  ],
+  "contentAliases": {},
+  "frozenHtml": {
+    "content/privacy-policy.html": [
+      "/privacy-policy/"
+    ],
+    "content/privacy-policy-history.html": [
+      "/privacy-policy-history/"
+    ],
+    "content/terms-of-use.html": [
+      "/terms-of-use/"
+    ],
+    "content/footer-trademarks.html": [
+      "/",
+      "/games/car-games/",
+      "/games/racing-clash/",
+      "/games/motorcycle-games/",
+      "/games/parking-games/",
+      "/privacy-policy/",
+      "/privacy-policy-history/",
+      "/terms-of-use/",
+      "/contact/",
+      "/guides/choose-a-driving-game/"
+    ]
+  }
+}

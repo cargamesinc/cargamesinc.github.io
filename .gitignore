@@ -1,0 +1,13 @@
+company-site/dist*/
+**/__pycache__/
+company-site/index.html
+company-site/404.html
+company-site/games/
+company-site/guides/
+company-site/privacy-policy/
+company-site/privacy-policy-history/
+company-site/terms-of-use/
+company-site/contact/
+company-site/home/
+company-site/_functions/
+company-site/evidence/validation-*.json
